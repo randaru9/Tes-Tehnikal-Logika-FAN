@@ -3,7 +3,7 @@
 ## Syarat awal
 
 Pastikan Anda telah menginstal:
-- [Node.js](https://nodejs.org/) & [npm](https://www.npmjs.com/)
+- [Node.js](https://nodejs.org/)
 - [Git](https://git-scm.com/)
 
 ## Instalasi dan Running
